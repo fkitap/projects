@@ -15,3 +15,7 @@ Create an Application named QutChampionship that uses the Athlete class and perf
 * c.	The program prompts the user for the names and event codes for each participant entered. Along with the prompt for an event code, display a list of valid categories. 
 * d.	Display information of all participants including the names, the event codes and the corresponding names of events. 
 * e.	After data entry is complete, the program displays the valid event categories and then continuously prompts the user for event codes, and displays the names of all participants in the category. Appropriate messages are displayed if the entered code is not a character or a valid code. 
+
+
+# Technology Used
+* C#

@@ -1,0 +1,12 @@
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.deps.json
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.runtimeconfig.json
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.runtimeconfig.dev.json
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.dll
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/bin/Debug/netcoreapp3.1/QutChampionship.pdb
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.csprojAssemblyReference.cache
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.AssemblyInfoInputs.cache
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.AssemblyInfo.cs
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.csproj.CoreCompileInputs.cache
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.dll
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.pdb
+/Users/fatimakitapbayeva/Documents/QutChampionship/QutChampionship/obj/Debug/netcoreapp3.1/QutChampionship.genruntimeconfig.cache

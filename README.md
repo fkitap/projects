@@ -2,7 +2,7 @@ This project's objective is building an application that displays information on
 
 # **Task 1** 
 
-Create an Athlete class with the following characteristics:
+Create an Athlete class with the following characteristics: \
 This class contains public static arrays that hold codes and descriptions of events held in a championship organised by QUT Sports Faculty. The event codes are T, B, S, R and O, corresponding to categories *Tennis, Badminton, Swimming, Running and Other*.  
 The class contains an auto-implemented property that holds a participant’s name. 
 The class contains fields for event code and description. The set accessor for the code assigns a code only if it is valid. Otherwise, it assigns I for Invalid. The event description is a read-only property that is assigned a value when the code is set. 
